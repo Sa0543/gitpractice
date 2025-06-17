@@ -1,3 +1,4 @@
+### file
 def add(a,b):
     """
     Adds two numbers together.
@@ -10,3 +11,6 @@ def add(a,b):
     int or float: The sum of a and b.
     """    
     return a + b
+
+def mul(a,b):
+    return a * b
